@@ -30,7 +30,7 @@ Clone the repository: git clone https://github.com/Jason3248/PRODIGY_WD_02.git
 Open stopwatch.html in your web browser.
 
 # Preview
-
+* Here is a glimpse of the project
 ![image](https://github.com/user-attachments/assets/463766f4-aad5-49ce-82ce-5bcd16c512f9)
 
 
