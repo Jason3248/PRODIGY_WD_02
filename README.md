@@ -22,7 +22,7 @@ To use the stopwatch:
 3. Reset: Click the 'Reset' button.
 4. Record a Lap: Click the 'Lap' button to record the current time as a lap.
 
-Clone the repository: git clone https://github.com/Jason3248/stopwatch-app.git
+Clone the repository: git clone https://github.com/Jason3248/PRODIGY_WD_02.git
 Open stopwatch.html in your web browser.
 Alternatively, you can view a live demo here :
 
